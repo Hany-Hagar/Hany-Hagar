@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ Flutter Developer who loves bringing ideas to life through clean and beautiful apps.<br>💡 Always trying to make code work... and look good too.<br>🚀 Passionate about creating smooth user experiences and learning new tricks along the way.<br>🎯 Goal: Keep improving, keep building, and maybe fix that one bug I’ve been ignoring.<br>🎲 Fun fact: I spend half my time coding and the other half wondering why it’s not working 😅</p>
+<p align="left">
+✨ Flutter Developer who loves bringing ideas to life through clean and beautiful apps.<br>
+💡 Always trying to make code work... and look good too.<br>
+🚀 Passionate about creating smooth user experiences and learning new tricks along the way.<br>
+🎯 Goal: Keep improving, keep building, and maybe fix that one bug I’ve been ignoring.<br>
+🎲 Fun fact: I spend half my time coding and the other half wondering why it’s not working 😅
+</p>
 
 ###
 
@@ -49,3 +55,25 @@
 </div>
 
 ###
+
+<h2 align="left">Connect with me</h2>
+
+###
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://twitter.com/USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
+  </a>
+  <img width="12" />
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gmail logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://github.com/USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  </a>
+</p>
