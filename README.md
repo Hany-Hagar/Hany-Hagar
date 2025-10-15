@@ -51,7 +51,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github white logo" style="filter: invert(1);" />
+  <img src="https://img.icons8.com/fluency/48/github.png" height="40" alt="github color logo" />
+
 
 </div>
 
