@@ -62,7 +62,7 @@
 
 <p align="left">
   <a href="https://wa.me/201093991564" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="40" alt="whatsapp logo" />
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="40" alt="whatsapp logo" />
   </a>
   <img width="12" />
   <a href="https://www.facebook.com/hany.mjdy.551194?mibextid=gWrMO4eEO0PPbg2S" target="_blank">
