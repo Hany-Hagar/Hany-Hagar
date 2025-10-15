@@ -66,17 +66,17 @@
   </a>
   <img width="12" />
   <a href="https://www.facebook.com/hany.mjdy.551194?mibextid=gWrMO4eEO0PPbg2S" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40" alt="facebook logo" />
+    <img src="https://img.icons8.com/color/48/facebook-new.png" height="40" alt="facebook logo" />
   </a>
   <img width="12" />
   <a href="https://www.instagram.com/__hany_magdy?igsh=d2ZpM2U2dmdkcDlz" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="40" alt="instagram logo" />
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="40" alt="instagram logo" />
   </a>
   <img width="12" />
   <a href="mailto:hanymagdyhagar@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40" alt="gmail logo" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" alt="gmail logo" />
   </a>
   <img width="12" />
   <a href="www.linkedin.com/in/hany-hagar-685972318" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" alt="linkedin logo" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="40" alt="linkedin logo" />
 </p>
