@@ -77,6 +77,6 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" alt="gmail logo" />
   </a>
   <img width="12" />
-  <a href="www.linkedin.com/in/hany-hagar-685972318" target="_blank">
+  <a href="https://www.linkedin.com/in/hany-hagar-685972318" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" height="40" alt="linkedin logo" />
 </p>
