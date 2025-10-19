@@ -100,16 +100,19 @@
 
 ###
 
-<p align="left">
-  <a href="https://example.com/images" target="_blank">
-    <img src="https://img.shields.io/badge/📸 Photos-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700" alt="images" />
+<p align="left" style="display: flex; gap: 16px; flex-wrap: wrap;">
+  <a href="https://example.com/images" target="_blank" style="border-radius: 10px; overflow: hidden;">
+    <img src="https://img.shields.io/badge/📸 Photos-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700" alt="images" style="border-radius: 10px;" />
   </a>
-  <a href="https://example.com/video" target="_blank">
-    <img src="https://img.shields.io/badge/🎥 Videos-FF4F4F?style=for-the-badge&labelColor=FF4F4F&color=FF4F4F" alt="video" />
+  
+  <a href="https://example.com/video" target="_blank" style="border-radius: 10px; overflow: hidden;">
+    <img src="https://img.shields.io/badge/🎥 Videos-FF4F4F?style=for-the-badge&labelColor=FF4F4F&color=FF4F4F" alt="video" style="border-radius: 10px;" />
   </a>
-  <a href="https://example.com/text" target="_blank">
-    <img src="https://img.shields.io/badge/📝 Test-007ACC?style=for-the-badge&labelColor=007ACC&color=007ACC" alt="text" />
+  
+  <a href="https://example.com/text" target="_blank" style="border-radius: 10px; overflow: hidden;">
+    <img src="https://img.shields.io/badge/📝 Test-007ACC?style=for-the-badge&labelColor=007ACC&color=007ACC" alt="text" style="border-radius: 10px;" />
   </a>
 </p>
+
 
 
