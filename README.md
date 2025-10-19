@@ -82,3 +82,35 @@
   <a href="https://www.linkedin.com/in/hany-hagar-685972318" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" height="40" alt="linkedin logo" />
 </p>
+
+###
+
+<hr style="border: 1px solid #444; margin: 40px 0;" />
+
+<h2 align="left">📱 My Projects</h2>
+
+###
+
+<h3 align="left">Islamic | إسلامي</h3>
+
+<p align="left">
+تطبيق <b>إسلامي</b> هو رفيقك اليومي الذي يجمع أهم الأدوات الدينية في مكان واحد.<br>
+يوفر لك سهولة الوصول إلى <b>القرآن الكريم، الأذكار، الأحاديث النبوية، المسبحة الإلكترونية، والراديو الإسلامي</b>.<br>
+يتميز بواجهة أنيقة وسهلة الاستخدام مع دعم الوضع الليلي واللغتين العربية والإنجليزية.<br>
+تطبيق بسيط، مريح، وسهل الاستخدام يساعدك على التقرب إلى الله في كل لحظة من يومك.
+</p>
+
+###
+
+<p align="left">
+  <a href="https://example.com/images" target="_blank">
+    <img src="https://img.shields.io/badge/📸 الصور-FFD700?style=for-the-badge&logo=google-photos&logoColor=white" alt="images" />
+  </a>
+  <a href="https://example.com/video" target="_blank">
+    <img src="https://img.shields.io/badge/🎥 الفيديو-FF4F4F?style=for-the-badge&logo=youtube&logoColor=white" alt="video" />
+  </a>
+  <a href="https://example.com/text" target="_blank">
+    <img src="https://img.shields.io/badge/📝 النص-007ACC?style=for-the-badge&logo=readme&logoColor=white" alt="text" />
+  </a>
+</p>
+
