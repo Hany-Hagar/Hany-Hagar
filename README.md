@@ -85,8 +85,6 @@
 
 ###
 
-<hr style="border: 1px solid #444; margin: 40px 0;" />
-
 <h2 align="left">📱 My Projects</h2>
 
 ###
