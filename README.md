@@ -102,13 +102,13 @@
 
 <p align="left">
   <a href="https://example.com/images" target="_blank">
-    <img src="https://img.shields.io/badge/📸 الصور-FFD700?style=for-the-badge&logo=google-photos&logoColor=white" alt="images" />
+    <img src="https://img.shields.io/badge/📸 Photos-FFD700?style=for-the-badge&logo=google-photos&logoColor=white" alt="images" />
   </a>
   <a href="https://example.com/video" target="_blank">
-    <img src="https://img.shields.io/badge/🎥 الفيديو-FF4F4F?style=for-the-badge&logo=youtube&logoColor=white" alt="video" />
+    <img src="https://img.shields.io/badge/🎥 Videos-FF4F4F?style=for-the-badge&logo=youtube&logoColor=white" alt="video" />
   </a>
   <a href="https://example.com/text" target="_blank">
-    <img src="https://img.shields.io/badge/📝 النص-007ACC?style=for-the-badge&logo=readme&logoColor=white" alt="text" />
+    <img src="https://img.shields.io/badge/📝 Test?style=for-the-badge&logo=readme&logoColor=white" alt="text" />
   </a>
 </p>
 
