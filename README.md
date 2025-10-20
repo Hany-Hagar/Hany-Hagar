@@ -101,19 +101,14 @@
 ###
 
 <p align="left" style="display: flex; gap: 18px; flex-wrap: wrap;">
-  <a href="https://example.com/images" target="_blank" style="border-radius: 12px; overflow: hidden;">
-    <img src="https://img.shields.io/badge/Photos-FFD700?style=for-the-badge&logo=google-photos&logoColor=white&labelColor=FFD700&color=FFD700" 
-         alt="images" style="border-radius: 12px;" />
+  <a href="https://example.com/media" target="_blank" style="border-radius: 12px; overflow: hidden;">
+    <img src="https://img.shields.io/badge/Media-FF4F4F?style=for-the-badge&logo=google-photos&logoColor=white&labelColor=FF4F4F&color=FF4F4F" 
+         alt="media" style="border-radius: 12px;" />
   </a>
   
-  <a href="https://example.com/video" target="_blank" style="border-radius: 12px; overflow: hidden;">
-    <img src="https://img.shields.io/badge/Videos-FF4F4F?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF4F4F&color=FF4F4F" 
-         alt="video" style="border-radius: 12px;" />
-  </a>
-  
-  <a href="https://example.com/text" target="_blank" style="border-radius: 12px; overflow: hidden;">
+  <a href="https://example.com/test" target="_blank" style="border-radius: 12px; overflow: hidden;">
     <img src="https://img.shields.io/badge/Test-007ACC?style=for-the-badge&logo=readme&logoColor=white&labelColor=007ACC&color=007ACC" 
-         alt="text" style="border-radius: 12px;" />
+         alt="test" style="border-radius: 12px;" />
   </a>
 </p>
 
