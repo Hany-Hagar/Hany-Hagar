@@ -101,7 +101,7 @@
 ###
 
 <p align="left" style="display: flex; gap: 18px; flex-wrap: wrap;">
-  <a href="https://example.com/media" target="_blank" style="border-radius: 12px; overflow: hidden;">
+  <a href="https://drive.google.com/drive/folders/1GpqYC-Ep_JxqHSruRunasm3_LgSJAgnA?usp=drive_link" target="_blank" style="border-radius: 12px; overflow: hidden;">
     <img src="https://img.shields.io/badge/Media-FF4F4F?style=for-the-badge&logo=google-photos&logoColor=white&labelColor=FF4F4F&color=FF4F4F" 
          alt="media" style="border-radius: 12px;" />
   </a>
