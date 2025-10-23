@@ -101,15 +101,12 @@
 
 ###
 
-<p align="left" style="display: flex; gap: 18px; flex-wrap: wrap;">
-  <a href="https://drive.google.com/drive/folders/your-factory-system-media-link" target="_blank" style="border-radius: 12px; overflow: hidden;">
-    <img src="https://img.shields.io/badge/Media-FF4F4F?style=for-the-badge&logo=google-photos&logoColor=white&labelColor=FF4F4F&color=FF4F4F" 
-         alt="media" style="border-radius: 12px;" />
+<p align="left">
+  <a href="https://drive.google.com/drive/folders/your-factory-system-media-link" target="_blank">
+    <img src="https://img.shields.io/badge/📸 Media-FB2D4D?style=for-the-badge&logo=google-photos&logoColor=white&labelColor=E41E3F&color=E41E3F" alt="media badge"/>
   </a>
-
-  <a href="https://example.com/factory-system-app" target="_blank" style="border-radius: 12px; overflow: hidden;">
-    <img src="https://img.shields.io/badge/App-007ACC?style=for-the-badge&logo=flutter&logoColor=white&labelColor=007ACC&color=007ACC" 
-         alt="app" style="border-radius: 12px;" />
+  <a href="https://example.com/factory-system-app" target="_blank">
+    <img src="https://img.shields.io/badge/📱 App-00BFFF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0284C7&color=0284C7" alt="app badge"/>
   </a>
 </p>
 
