@@ -103,10 +103,10 @@
 
 <p align="left">
   <a href="https://drive.google.com/drive/folders/your-factory-system-media-link" target="_blank">
-    <img src="https://img.shields.io/badge/📸%20Media-E53935?style=for-the-badge&labelColor=E53935&color=E53935&borderRadius=10" alt="media"/>
+    <img src="https://img.shields.io/badge/📸 %20Media-E53935?style=for-the-badge&labelColor=E53935&color=E53935&borderRadius=10" alt="media"/>
   </a>
   <a href="https://example.com/factory-system-app" target="_blank">
-    <img src="https://img.shields.io/badge/📱%20App-0284C7?style=for-the-badge&labelColor=0284C7&color=0284C7&borderRadius=10" alt="app"/>
+    <img src="https://img.shields.io/badge/📱 %20App-0284C7?style=for-the-badge&labelColor=0284C7&color=0284C7&borderRadius=10" alt="app"/>
   </a>
 </p>
 
