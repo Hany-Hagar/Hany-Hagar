@@ -89,7 +89,7 @@
 
 ###
 
-<h3 align="left">Factory System App | نظام إدارة مصنع</h3>
+<h3 align="left">🏭 Factory System App | نظام إدارة مصنع</h3>
 
 <p align="left">
 تطبيق <b>Factory System App</b> هو نظام حديث متكامل لإدارة المصانع وتنظيم العمليات اليومية بكفاءة عالية.<br>
@@ -102,13 +102,19 @@
 ###
 
 <p align="left">
-  <a href="https://drive.google.com/drive/folders/your-factory-system-media-link" target="_blank">
-    <img src="https://img.shields.io/badge/📸 %20Media-E53935?style=for-the-badge&labelColor=E53935&color=E53935&borderRadius=10" alt="media"/>
+  <a href="https://drive.google.com/drive/folders/your-factory-system-media-link" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/%F0%9F%93%B8%20Media-E53935?style=for-the-badge&labelColor=E53935&color=E53935" 
+         alt="media"
+         style="border-radius:10px; padding:6px 14px; font-size:22px;" />
   </a>
-  <a href="https://example.com/factory-system-app" target="_blank">
-    <img src="https://img.shields.io/badge/📱 %20App-0284C7?style=for-the-badge&labelColor=0284C7&color=0284C7&borderRadius=10" alt="app"/>
+  <a href="https://example.com/factory-system-app" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/%F0%9F%93%B1%20App-0284C7?style=for-the-badge&labelColor=0284C7&color=0284C7"
+         alt="app"
+         style="border-radius:10px; padding:6px 14px; font-size:22px;" />
   </a>
 </p>
+
+###
 
 <h3 align="left">Islamic | إسلامي</h3>
 
