@@ -102,12 +102,12 @@
 ###
 
 <p align="left">
-  <a href="https://drive.google.com/drive/folders/your-factory-system-media-link" target="_blank" style="text-decoration:none;">
+  <a href="https://drive.google.com/file/d/1LlBIci4FwEzQgvKSTdYCDLRTPCJIJ874/view?usp=drive_link" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/%F0%9F%93%B8%20Media-E53935?style=for-the-badge&labelColor=E53935&color=E53935" 
          alt="media"
          style="border-radius:10px; padding:6px 14px; font-size:22px;" />
   </a>
-  <a href="https://example.com/factory-system-app" target="_blank" style="text-decoration:none;">
+  <a href="https://drive.google.com/file/d/1miA8YJqvQ-LH8hu_MaO6gulnyP6OSTSB/view?usp=drive_link" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/%F0%9F%93%B1%20App-0284C7?style=for-the-badge&labelColor=0284C7&color=0284C7"
          alt="app"
          style="border-radius:10px; padding:6px 14px; font-size:22px;" />
