@@ -89,6 +89,30 @@
 
 ###
 
+<h3 align="left">Factory System App | نظام إدارة مصنع</h3>
+
+<p align="left">
+تطبيق <b>Factory System App</b> هو نظام حديث متكامل لإدارة المصانع وتنظيم العمليات اليومية بكفاءة عالية.<br>
+يساعدك على تنظيم الإنتاج، متابعة الطلبات، وتخزين البيانات محليًا بطريقة آمنة وسريعة باستخدام <b>Hive</b>.<br>
+يدعم <b>تعدد اللغات</b> (العربية والإنجليزية) مع واجهة أنيقة وثيم ليلي ونهاري جذاب.<br>
+يستخدم <b>Bloc</b> لإدارة الحالة وضمان الأداء والاستقرار.<br>
+🚀 تطبيق ذكي وسهل الاستخدام لتسهيل إدارة المصنع ومتابعة سير العمل اليومية.
+</p>
+
+###
+
+<p align="left" style="display: flex; gap: 18px; flex-wrap: wrap;">
+  <a href="https://drive.google.com/drive/folders/your-factory-system-media-link" target="_blank" style="border-radius: 12px; overflow: hidden;">
+    <img src="https://img.shields.io/badge/Media-FF4F4F?style=for-the-badge&logo=google-photos&logoColor=white&labelColor=FF4F4F&color=FF4F4F" 
+         alt="media" style="border-radius: 12px;" />
+  </a>
+  
+  <a href="https://example.com/factory-system-test" target="_blank" style="border-radius: 12px; overflow: hidden;">
+    <img src="https://img.shields.io/badge/Test-007ACC?style=for-the-badge&logo=readme&logoColor=white&labelColor=007ACC&color=007ACC" 
+         alt="test" style="border-radius: 12px;" />
+  </a>
+</p>
+
 <h3 align="left">Islamic | إسلامي</h3>
 
 <p align="left">
