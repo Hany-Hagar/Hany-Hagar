@@ -1,168 +1,175 @@
-# 👋 Hi, I'm Hany Magdy Hagar
+# Hi, I'm Hany Magdy Hagar 👋
 
-### 💙 Flutter Developer | 📱 Mobile Application Developer
+### Flutter Developer | Mobile Application Developer
 
 📍 Cairo, Egypt
 
-I'm a Flutter Developer passionate about building 🚀 scalable, maintainable, and user-friendly mobile applications using **Flutter & Dart**.
+I build cross-platform mobile applications using **Flutter and Dart**, focusing on maintainable architecture, reliable integrations, and user-friendly experiences.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/hany-hagar-685972318)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/Hany-Hagar)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hanymagdyhagar@gmail.com)
 
 ---
 
 ## 👨‍💻 About Me
 
-- 📱 Developing cross-platform mobile applications with Flutter and Dart.
-- 🏢 Building enterprise dashboards and e-commerce applications.
-- 🧱 Applying Clean Architecture, Repository Pattern, and BLoC/Cubit.
-- 🔌 Integrating REST APIs, Firebase services, and real-time communication.
-- 🚀 Publishing production applications on Google Play.
-- 📚 Continuously improving my mobile and backend development skills.
+- 📱 Develop cross-platform mobile applications with Flutter and Dart.
+- 🏢 Build enterprise dashboards and e-commerce applications.
+- 🧱 Apply Clean Architecture, Repository Pattern, and BLoC/Cubit.
+- 🔌 Integrate REST APIs and Firebase services.
+- 🔐 Implement secure storage, biometric authentication, and app-level security features.
+- 🚀 Work with Android flavors and Shorebird Patch for application updates.
+- 📚 Continuously expand my skills in mobile and backend development.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### Languages & Frameworks
+
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,cpp" alt="Dart, Flutter, Java, C++" />
 </p>
 
-### 📱 Mobile Development
+### Architecture & State Management
+
+- BLoC / Cubit
+- Clean Architecture
+- MVVM and Repository Pattern
+- Dependency Injection with GetIt
+- Flutter Flavors and Localization (i18n)
+
+### Backend, APIs & Storage
+
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql" alt="Firebase and MySQL" />
 </p>
 
-### 🧩 Architecture & State Management
-- 🔹 BLoC / Cubit
-- 🔹 Clean Architecture
-- 🔹 MVVM
-- 🔹 Repository Pattern
-- 🔹 Dependency Injection (GetIt)
-- 🔹 Flutter Flavors & Localization (i18n)
+- REST APIs, Dio, and JSON
+- Firebase Authentication
+- Cloud Firestore and Firebase Storage
+- Firebase Cloud Messaging (FCM)
+- Hive, SQLite, and SharedPreferences
+- Flutter Secure Storage
 
-### ☁️ Backend & Database
+### Tools & Workflow
+
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" alt="Git, GitHub, VS Code, Android Studio, Postman" />
 </p>
 
-- 🔗 REST APIs & Dio
-- 🔥 Firebase Authentication
-- 🗄️ Cloud Firestore & Firebase Storage
-- 🔔 Firebase Cloud Messaging
-- ⚡ Pusher Channels
-- 💾 Hive, SQLite, SharedPreferences
-- 🔐 Flutter Secure Storage
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
-</p>
-
-### ✨ Additional Skills
-- 📊 Charts & PDF Generation
-- 📂 Excel Import & File Uploads
-- 🎙️ Speech Recognition & Text-to-Speech
-- 📷 Camera Integration
-- 📍 Location Services
-- 📱 Responsive UI Design
+- Shorebird Patch
+- PDF Generation and Charts
+- Excel Import and File Uploads
+- Camera Integration and Speech Features
+- Responsive UI and Arabic RTL Support
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏢 1. American Soft — Enterprise Dashboard System
+### 1. American Soft — Enterprise Dashboard System
 
-A multi-flavor Flutter dashboard system built with a shared codebase for administration, technical operations, and center management.
+A multi-flavor Flutter dashboard system supporting administration, technical operations, and center management through a shared codebase.
 
-**✨ Key Features**
-- 📦 Order and inventory management
-- 💰 Financial operations and reporting
-- 🔐 Authentication and secure storage
-- 🔔 Notifications and real-time communication
-- 🔌 REST API integration, pagination, and file uploads
-- 📊 Charts and PDF reports
+**Key Features**
+- Order management, employee management, and center operations.
+- Products, brands, invoices, treasury, wallets, and financial reports.
+- REST API integration, pagination, filtering, and file uploads.
+- Role-based access, secure token handling, and biometric authentication.
+- Firebase Cloud Messaging, PDF reports, and Google ML Kit translation features.
+- Shorebird Patch for eligible over-the-air application updates.
 
-**🛠️ Tech:** Flutter · Dart · BLoC/Cubit · GetIt · Dio · Firebase · Pusher Channels
+**Tech Stack:** Flutter · Dart · BLoC/Cubit · GetIt · Dio · Firebase
 
-**📲 Google Play Apps**
-- [🔹 Admin Dashboard](https://play.google.com/store/apps/details?id=com.americangroup.dashboardAdmin)
-- [🔹 Technical Dashboard](https://play.google.com/store/apps/details?id=com.americangroup.dashboard)
-- [🔹 Center Dashboard](https://play.google.com/store/apps/details?id=com.americangroup.dashboardCenter)
+**Google Play Applications**
 
-### 💧 2. Al Reef Water — E-Commerce Application
+- [Admin Dashboard](https://play.google.com/store/apps/details?id=com.americangroup.dashboardAdmin)
+- [Technical Dashboard](https://play.google.com/store/apps/details?id=com.americangroup.dashboard)
+- [Center Dashboard](https://play.google.com/store/apps/details?id=com.americangroup.dashboardCenter)
 
-A water ordering application with customer and admin functionality, rebuilt with improved code structure and maintainability.
+---
 
-**✨ Key Features**
-- 👤 Authentication and user profiles
-- 🛍️ Product and category management
-- 🛒 Cart and order management
-- 🔥 Firebase integration and push notifications
+### 2. Al Reef Water — Water Ordering Application
 
-**🛠️ Tech:** Flutter · Dart · Firebase Authentication · Cloud Firestore · Firebase Storage
+A water-ordering application supporting customer and administrative workflows.
 
-[📲 Download on Google Play](https://play.google.com/store/apps/details?id=com.code_plus.al_reef_water)
+**Key Features**
+- User authentication and profile management.
+- Product and category management.
+- Shopping cart and order management.
+- Firebase integration and push notifications.
 
-### 🛒 3. Twins Gomla Market — Wholesale Shopping Application
+**Tech Stack:** Flutter · Dart · Firebase Authentication · Cloud Firestore · Firebase Storage · FCM
 
-A wholesale shopping application with enhanced product data management and bulk import workflows.
+[**📲 View on Google Play**](https://play.google.com/store/apps/details?id=com.code_plus.al_reef_water)
 
-**✨ Key Features**
-- 📊 Excel-based bulk product import
-- 🗂️ Automatic category creation
-- 🛡️ Duplicate data prevention
-- 🖼️ Automated product image uploads
-- ⚡ Optimized Firestore synchronization using batch writes and parallel processing
+---
 
-**🛠️ Tech:** Flutter · Dart · Cloud Firestore · Firebase Storage · Excel Import
+### 3. Twins Gomla Market — Wholesale Shopping Application
 
-[📲 Download on Google Play](https://play.google.com/store/apps/details?id=com.orderappcomany.orderapp)
+A wholesale shopping application with improved product management and bulk data-import workflows.
 
-### 💰 4. Surrah — Offline Personal Finance App
+**Key Features**
+- Bulk product import from Excel.
+- Automatic category creation and duplicate prevention.
+- Product image uploads using Firebase Storage.
+- Firestore batch writes and parallel processing.
 
-An offline personal finance application for tracking expenses and organizing financial records.
+**Tech Stack:** Flutter · Dart · Cloud Firestore · Firebase Storage · Excel Import
 
-**✨ Key Features**
-- 💸 Expense tracking and category management
-- 📈 Daily, weekly, and monthly reports
-- 🌐 Arabic and English localization
-- 🌓 Light and dark themes
-- 💾 Local data storage
+[**📲 View on Google Play**](https://play.google.com/store/apps/details?id=com.orderappcomany.orderapp)
 
-**🛠️ Tech:** Flutter · Dart · BLoC/Cubit · Hive
+---
 
-[💻 View GitHub Repository](https://github.com/Hany-Hagar/surrah-app)
+### 4. Surrah — Offline Personal Finance App
+
+An offline-first personal finance application for managing income, expenses, and financial records without requiring an internet connection.
+
+**Key Features**
+- Income and expense tracking.
+- Category management and date-based reports.
+- Arabic and English localization.
+- Light and dark themes and currency preferences.
+- Local data persistence using Hive.
+- Biometric app lock and screenshot protection.
+
+**Tech Stack:** Flutter · Dart · BLoC/Cubit · Hive
+
+[**💻 View GitHub Repository**](https://github.com/Hany-Hagar/surrah-app)
 
 ---
 
 ## 🎓 Education
 
-🎓 **B.Sc. in Computer Science**  
-🏫 Thebes Academy | 2021 – 2025
+**B.Sc. in Computer Science**  
+Thebes Academy | 2021 – 2025
 
 ---
 
 ## 🌐 Languages
 
-- 🇪🇬 Arabic — Native
-- 🌍 English — Professional Working Proficiency
+- Arabic — Native
+- English — Professional Working Proficiency
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
+
+I'm always interested in connecting with developers and exploring opportunities to build useful mobile applications.
 
 <p>
   <a href="mailto:hanymagdyhagar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/hany-hagar-685972318">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Hany-Hagar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
+⭐ Thanks for visiting my profile!
 
-⭐ **Thanks for visiting my profile!**  
-🤝 Feel free to explore my repositories and connect with me.
