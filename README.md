@@ -1,146 +1,150 @@
-# Hey 👋, I'm Hany Magdy Hagar
+# Hi, I'm Hany Magdy Hagar 👋
 
-### Flutter Developer | Mobile App Development 📱
+### Flutter Developer | Mobile Application Developer
 
-I'm a Flutter Developer from Egypt, passionate about building reliable, user-friendly mobile applications with clean code and maintainable architecture.
+I'm a Flutter Developer from Egypt, passionate about building scalable, maintainable, and user-friendly mobile applications. I focus on clean code, reusable components, and practical solutions using Flutter and Dart.
 
-I enjoy turning ideas into real products, integrating APIs, managing application state, and creating smooth user experiences with Flutter and Dart.
+## 👨‍💻 About Me
 
-- 🔭 Working on real-world Flutter applications and personal projects.
-- 🧱 Interested in Clean Architecture, scalable code, and maintainable applications.
-- ⚙️ Experienced with state management, REST APIs, and local data storage.
-- 🌍 Building applications with Arabic and English localization.
-- 📚 Currently expanding my knowledge of backend development with PHP and Laravel.
-
----
+- 📱 Developing cross-platform mobile applications with Flutter and Dart.
+- 🏢 Experience building enterprise dashboards and e-commerce applications.
+- 🧱 Applying Clean Architecture, Repository Pattern, and BLoC/Cubit.
+- 🔌 Integrating REST APIs, Firebase services, and real-time communication.
+- 🚀 Experienced in deploying production applications to Google Play.
+- 📚 Continuously improving my mobile development and backend skills.
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+**Languages**
+- Dart
+- Java
+- C++
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,php,laravel" height="45" alt="Dart, Flutter, PHP, Laravel" />
-</p>
+**Flutter & State Management**
+- Flutter
+- BLoC / Cubit
+- Hydrated BLoC
+- Flutter Flavors
+- Localization (i18n)
 
-### State Management & Architecture
+**Architecture & Design**
+- Clean Architecture
+- MVVM
+- Repository Pattern
+- Dependency Injection (GetIt)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
-  <img src="https://img.shields.io/badge/Cubit-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Cubit" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-263238?style=for-the-badge" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/MVVM-37474F?style=for-the-badge" alt="MVVM" />
-  <img src="https://img.shields.io/badge/GetIt-4A5568?style=for-the-badge" alt="GetIt" />
-</p>
+**Backend & APIs**
+- REST APIs
+- Dio
+- JSON Serialization
 
-### APIs, Databases & Services
+**Firebase**
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Storage
+- Firebase Cloud Messaging
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" height="45" alt="Firebase and MySQL" />
-  <img src="https://img.shields.io/badge/REST%20APIs-00897B?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Dio" />
-  <img src="https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge&logo=hive&logoColor=black" alt="Hive" />
-  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Authentication" />
-  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud Firestore" />
-  <img src="https://img.shields.io/badge/FCM-FF6F00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Cloud Messaging" />
-</p>
+**Local Storage**
+- Hive
+- SQLite
+- SharedPreferences
+- Flutter Secure Storage
 
-### Mobile Development & Tools
+**Additional Technologies**
+- Pusher Channels
+- Excel Import & File Uploads
+- Responsive UI
+- Charts & PDF Generation
+- Camera & Speech Recognition
+- Text-to-Speech & Location Services
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,visualstudio" height="45" alt="Git, GitHub, VS Code, Android Studio, Visual Studio" />
-  <img src="https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ML Kit" />
-  <img src="https://img.shields.io/badge/Localization-00897B?style=for-the-badge" alt="Localization" />
-  <img src="https://img.shields.io/badge/Responsive%20UI-6C63FF?style=for-the-badge" alt="Responsive UI" />
-</p>
+**Tools**
+- Git & GitHub
+- Android Studio
+- Visual Studio Code
+- Postman
 
----
+## 🚀 Featured Projects
 
-## 📱 My Projects
+### 1. American Soft — Enterprise Dashboard System
 
-### 💰 Surrah | صُرّة
-**Offline Personal Finance App**
+Developed a multi-flavor Flutter dashboard system using a shared codebase for administration, technical operations, and center management.
 
-An offline-first personal finance application designed to help users manage their daily finances through a simple and intuitive interface.
+**Key Features**
+- Order and inventory management
+- Financial operations and reporting
+- Authentication and notifications
+- REST API integration and pagination
+- Biometric authentication and secure storage
+- Real-time communication and reusable UI components
 
-- Track expenses and organize transactions by category.
-- View daily, weekly, and monthly financial reports.
-- Store financial data locally without requiring an account.
-- Support Arabic and English localization.
-- Customize the application with light and dark themes.
-- Focus on privacy and local data storage.
+**Tech:** Flutter, Dart, BLoC/Cubit, GetIt, Dio, REST APIs, Firebase, Pusher Channels
 
-**Technologies:** Flutter, Dart, BLoC/Cubit, Hive, Clean Architecture.
+**Google Play Applications**
+- [Admin Dashboard](https://play.google.com/store/apps/details?id=com.americangroup.dashboardAdmin)
+- [Technical Dashboard](https://play.google.com/store/apps/details?id=com.americangroup.dashboard)
+- [Center Dashboard](https://play.google.com/store/apps/details?id=com.americangroup.dashboardCenter)
 
-🔗 [GitHub Repository](https://github.com/Hany-Hagar/surrah-app)
+### 2. Al Reef Water — E-Commerce Application
 
----
+Rebuilt the Flutter application with improved code structure, maintainability, and scalability, including customer and admin functionality.
 
-### 📊 American Soft Dashboard
-**Business Management Dashboard**
+**Key Features**
+- Authentication and user profiles
+- Product and category management
+- Cart and order management
+- Firebase integration and push notifications
 
-A Flutter dashboard application designed to manage business operations through dedicated modules.
+**Tech:** Flutter, Dart, Firebase Authentication, Cloud Firestore, Firebase Storage
 
-- Manage orders and employees.
-- Manage centers, products, and brands.
-- Handle treasury and wallet operations.
-- Access reports and notifications.
-- Provide authentication and system management features.
+[📲 Google Play](https://play.google.com/store/apps/details?id=com.code_plus.al_reef_water)
 
-**Technologies:** Flutter, Dart, BLoC/Cubit, REST APIs, Clean Architecture, Localization.
+### 3. Twins Gomla Market — Wholesale Shopping Application
 
----
+Worked on product data management and optimized bulk product imports using Firebase services.
 
-### 🚰 Al Reef Water | الريف للمياه
-**Water Delivery Application**
+**Key Features**
+- Excel-based bulk product import
+- Automatic category creation
+- Duplicate data prevention
+- Automated product image uploads
+- Efficient Firestore synchronization using batch writes and parallel processing
 
-A mobile application developed to support water delivery services and customer ordering workflows.
+**Tech:** Flutter, Dart, Cloud Firestore, Firebase Storage, Excel Import
 
-- Provide a user-friendly mobile ordering experience.
-- Support customer and order-related workflows.
-- Integrate application services and data management.
+[📲 Google Play](https://play.google.com/store/apps/details?id=com.orderappcomany.orderapp)
 
-**Technologies:** Flutter, Dart, Firebase.
+### 4. Surrah — Offline Personal Finance App
 
----
+A personal finance application designed to help users track expenses and organize their finances offline.
 
-### 🛒 Twins Gomla Market | توينز جملة ماركت
-**Wholesale Shopping Application**
+**Key Features**
+- Expense tracking and category management
+- Daily, weekly, and monthly reports
+- Arabic and English localization
+- Light and dark themes
+- Local data storage
 
-A mobile shopping application designed to support product browsing and ordering workflows.
+**Tech:** Flutter, Dart, BLoC/Cubit, Hive
 
-- Browse products and their details.
-- Support shopping and order-related workflows.
-- Integrate application data and product images.
+[💻 GitHub Repository](https://github.com/Hany-Hagar/surrah-app)
 
-**Technologies:** Flutter, Dart, Firebase, REST APIs.
+## 🎓 Education
 
----
+**B.Sc. in Computer Science**  
+Thebes Academy | 2021 – 2025
+
+## 🌐 Languages
+
+- Arabic: Native
+- English: Professional Working Proficiency
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:hanymagdyhagar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/hany-hagar-685972318" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Hany-Hagar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://wa.me/201093991564" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.facebook.com/hany.mjdy.551194?mibextid=gWrMO4eEO0PPbg2S" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/__hany_magdy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+- **Email:** [hanymagdyhagar@gmail.com](mailto:hanymagdyhagar@gmail.com)
+- **LinkedIn:** [Hany Magdy Hagar](https://www.linkedin.com/in/hany-hagar-685972318)
+- **GitHub:** [Hany-Hagar](https://github.com/Hany-Hagar)
 
 ---
 
-<p align="center">
-  <i>Building useful apps, writing cleaner code, and learning something new every day. 🚀</i>
-</p>
+⭐ Feel free to explore my repositories and connect with me!
