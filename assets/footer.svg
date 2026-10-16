@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 90" width="880" height="90" role="img" aria-label="Footer">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#001233"/><stop offset="0.5" stop-color="#0A3A6B"/><stop offset="1" stop-color="#0077B6"/></linearGradient>
+<clipPath id="c"><rect width="880" height="90" rx="16"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="880" height="90" fill="url(#g)"/>
+<path d="M0 62 C120 30 240 90 380 56 S640 20 880 58 V90 H0Z" fill="#FFFFFF" opacity="0.06"/>
+<path d="M0 72 C140 46 260 96 420 68 S700 40 880 70 V90 H0Z" fill="#FFFFFF" opacity="0.06"/></g>
+<text x="440" y="44" text-anchor="middle" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">Hany Magdy Hagar · Flutter Developer</text>
+<text x="440" y="66" text-anchor="middle" font-family="'SFMono-Regular', Consolas, Menlo, 'Liberation Mono', monospace" font-size="12" fill="#9CC9F0">Cairo, Egypt · hanymagdyhagar@gmail.com</text>
+</svg>
