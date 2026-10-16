@@ -1,144 +1,146 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋, I'm Hany Magdy Hagar
 
-###
+### Flutter Developer | Mobile App Development 📱
 
-<p align="left">My name is Hany Magdy, and I'm a Flutter Developer from Egypt.</p>
+I'm a Flutter Developer from Egypt, passionate about building reliable, user-friendly mobile applications with clean code and maintainable architecture.
 
-###
+I enjoy turning ideas into real products, integrating APIs, managing application state, and creating smooth user experiences with Flutter and Dart.
 
-<h2 align="left">About me</h2>
+- 🔭 Working on real-world Flutter applications and personal projects.
+- 🧱 Interested in Clean Architecture, scalable code, and maintainable applications.
+- ⚙️ Experienced with state management, REST APIs, and local data storage.
+- 🌍 Building applications with Arabic and English localization.
+- 📚 Currently expanding my knowledge of backend development with PHP and Laravel.
 
-###
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
 
 <p align="left">
-✨ Flutter Developer who loves bringing ideas to life through clean and beautiful apps.<br>
-💡 Always trying to make code work... and look good too.<br>
-🚀 Passionate about creating smooth user experiences and learning new tricks along the way.<br>
-🎯 Goal: Keep improving, keep building, and maybe fix that one bug I’ve been ignoring.<br>
-🎲 Fun fact: I spend half my time coding and the other half wondering why it’s not working 😅
+  <img src="https://skillicons.dev/icons?i=dart,flutter,php,laravel" height="45" alt="Dart, Flutter, PHP, Laravel" />
 </p>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/fluency/48/github.png" height="40" alt="github color logo" />
-
-
-</div>
-
-###
-
-<h2 align="left">Connect with me</h2>
-
-###
+### State Management & Architecture
 
 <p align="left">
-  <a href="https://wa.me/201093991564" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="40" alt="whatsapp logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.facebook.com/hany.mjdy.551194?mibextid=gWrMO4eEO0PPbg2S" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" height="40" alt="facebook logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.instagram.com/__hany_magdy?igsh=d2ZpM2U2dmdkcDlz" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="40" alt="instagram logo" />
-  </a>
-  <img width="12" />
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Cubit-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Cubit" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-263238?style=for-the-badge" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/MVVM-37474F?style=for-the-badge" alt="MVVM" />
+  <img src="https://img.shields.io/badge/GetIt-4A5568?style=for-the-badge" alt="GetIt" />
+</p>
+
+### APIs, Databases & Services
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,mysql" height="45" alt="Firebase and MySQL" />
+  <img src="https://img.shields.io/badge/REST%20APIs-00897B?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Dio" />
+  <img src="https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge&logo=hive&logoColor=black" alt="Hive" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Authentication" />
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud Firestore" />
+  <img src="https://img.shields.io/badge/FCM-FF6F00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Cloud Messaging" />
+</p>
+
+### Mobile Development & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,visualstudio" height="45" alt="Git, GitHub, VS Code, Android Studio, Visual Studio" />
+  <img src="https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ML Kit" />
+  <img src="https://img.shields.io/badge/Localization-00897B?style=for-the-badge" alt="Localization" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-6C63FF?style=for-the-badge" alt="Responsive UI" />
+</p>
+
+---
+
+## 📱 My Projects
+
+### 💰 Surrah | صُرّة
+**Offline Personal Finance App**
+
+An offline-first personal finance application designed to help users manage their daily finances through a simple and intuitive interface.
+
+- Track expenses and organize transactions by category.
+- View daily, weekly, and monthly financial reports.
+- Store financial data locally without requiring an account.
+- Support Arabic and English localization.
+- Customize the application with light and dark themes.
+- Focus on privacy and local data storage.
+
+**Technologies:** Flutter, Dart, BLoC/Cubit, Hive, Clean Architecture.
+
+🔗 [GitHub Repository](https://github.com/Hany-Hagar/surrah-app)
+
+---
+
+### 📊 American Soft Dashboard
+**Business Management Dashboard**
+
+A Flutter dashboard application designed to manage business operations through dedicated modules.
+
+- Manage orders and employees.
+- Manage centers, products, and brands.
+- Handle treasury and wallet operations.
+- Access reports and notifications.
+- Provide authentication and system management features.
+
+**Technologies:** Flutter, Dart, BLoC/Cubit, REST APIs, Clean Architecture, Localization.
+
+---
+
+### 🚰 Al Reef Water | الريف للمياه
+**Water Delivery Application**
+
+A mobile application developed to support water delivery services and customer ordering workflows.
+
+- Provide a user-friendly mobile ordering experience.
+- Support customer and order-related workflows.
+- Integrate application services and data management.
+
+**Technologies:** Flutter, Dart, Firebase.
+
+---
+
+### 🛒 Twins Gomla Market | توينز جملة ماركت
+**Wholesale Shopping Application**
+
+A mobile shopping application designed to support product browsing and ordering workflows.
+
+- Browse products and their details.
+- Support shopping and order-related workflows.
+- Integrate application data and product images.
+
+**Technologies:** Flutter, Dart, Firebase, REST APIs.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
   <a href="mailto:hanymagdyhagar@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img width="12" />
   <a href="https://www.linkedin.com/in/hany-hagar-685972318" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" height="40" alt="linkedin logo" />
-</p>
-
-###
-
-<h2 align="left">📱 My Projects</h2>
-
-###
-
-<h3 align="left">🏭 Factory System App | نظام إدارة مصنع</h3>
-
-<p align="left">
-تطبيق <b>Factory System App</b> هو نظام حديث متكامل لإدارة المصانع وتنظيم العمليات اليومية بكفاءة عالية.<br>
-يساعدك على تنظيم الإنتاج، متابعة الطلبات، وتخزين البيانات محليًا بطريقة آمنة وسريعة باستخدام <b>Hive</b>.<br>
-يدعم <b>تعدد اللغات</b> (العربية والإنجليزية) مع واجهة أنيقة وثيم ليلي ونهاري جذاب.<br>
-يستخدم <b>Bloc</b> لإدارة الحالة وضمان الأداء والاستقرار.<br>
-🚀 تطبيق ذكي وسهل الاستخدام لتسهيل إدارة المصنع ومتابعة سير العمل اليومية.
-</p>
-
-###
-
-<p align="left">
-  <a href="https://drive.google.com/file/d/1LlBIci4FwEzQgvKSTdYCDLRTPCJIJ874/view?usp=drive_link" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/%F0%9F%93%B8%20Media-E53935?style=for-the-badge&labelColor=E53935&color=E53935" 
-         alt="media"
-         style="border-radius:10px; padding:6px 14px; font-size:22px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://drive.google.com/file/d/1miA8YJqvQ-LH8hu_MaO6gulnyP6OSTSB/view?usp=drive_link" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/%F0%9F%93%B1%20App-0284C7?style=for-the-badge&labelColor=0284C7&color=0284C7"
-         alt="app"
-         style="border-radius:10px; padding:6px 14px; font-size:22px;" />
+  <a href="https://github.com/Hany-Hagar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://wa.me/201093991564" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.facebook.com/hany.mjdy.551194?mibextid=gWrMO4eEO0PPbg2S" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/__hany_magdy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-###
+---
 
-<h3 align="left">Islamic | إسلامي</h3>
-
-<p align="left">
-تطبيق <b>إسلامي</b> هو رفيقك اليومي الذي يجمع أهم الأدوات الدينية في مكان واحد.<br>
-يوفر لك سهولة الوصول إلى <b>القرآن الكريم، الأذكار، الأحاديث النبوية، المسبحة الإلكترونية، والراديو الإسلامي</b>.<br>
-يتميز بواجهة أنيقة وسهلة الاستخدام مع دعم الوضع الليلي واللغتين العربية والإنجليزية.<br>
-تطبيق بسيط، مريح، وسهل الاستخدام يساعدك على التقرب إلى الله في كل لحظة من يومك.
+<p align="center">
+  <i>Building useful apps, writing cleaner code, and learning something new every day. 🚀</i>
 </p>
-
-###
-
-<p align="left" style="display: flex; gap: 18px; flex-wrap: wrap;">
-  <a href="https://drive.google.com/drive/folders/1GpqYC-Ep_JxqHSruRunasm3_LgSJAgnA?usp=drive_link" target="_blank" style="border-radius: 12px; overflow: hidden;">
-    <img src="https://img.shields.io/badge/Media-FF4F4F?style=for-the-badge&logo=google-photos&logoColor=white&labelColor=FF4F4F&color=FF4F4F" 
-         alt="media" style="border-radius: 12px;" />
-  </a>
-  
-  <a href="https://example.com/test" target="_blank" style="border-radius: 12px; overflow: hidden;">
-    <img src="https://img.shields.io/badge/Test-007ACC?style=for-the-badge&logo=readme&logoColor=white&labelColor=007ACC&color=007ACC" 
-         alt="test" style="border-radius: 12px;" />
-  </a>
-</p>
-
-
-
-
