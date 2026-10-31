@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 110" width="1200" height="110"><style>
+text{font-family:'Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif}
+.a{transform-box:fill-box;transform-origin:center}
+@keyframes pulse{0%{opacity:.9;transform:scale(1)}100%{opacity:0;transform:scale(3)}}
+@keyframes flt{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes ln{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.p{animation:pulse 1.8s ease-out infinite}.f{animation:flt 6s ease-in-out infinite}
+.s{animation:spin 40s linear infinite}.u{transform-origin:left center;transform-box:fill-box;animation:ln 1.2s .4s cubic-bezier(.2,.7,.2,1) both}
+</style><rect y="10" width="1200" height="1" fill="#2A323D"/><circle cx="40" cy="62" r="5" fill="#5EEAD4"/><circle class="a p" cx="40" cy="62" r="5" fill="#5EEAD4"/><text x="62" y="68" font-size="18" fill="#E8ECF1" font-weight="500" >Hany Magdy Hagar · Flutter Developer</text><text x="1200" y="68" font-size="15" fill="#A3ADBA" font-weight="400" text-anchor="end">Cairo, Egypt · © 2026</text></svg>

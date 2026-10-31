@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 84" width="1200" height="84"><style>
+text{font-family:'Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif}
+.a{transform-box:fill-box;transform-origin:center}
+@keyframes pulse{0%{opacity:.9;transform:scale(1)}100%{opacity:0;transform:scale(3)}}
+@keyframes flt{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes ln{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.p{animation:pulse 1.8s ease-out infinite}.f{animation:flt 6s ease-in-out infinite}
+.s{animation:spin 40s linear infinite}.u{transform-origin:left center;transform-box:fill-box;animation:ln 1.2s .4s cubic-bezier(.2,.7,.2,1) both}
+</style><text x="0" y="24" font-size="13" fill="#5EEAD4" font-weight="500" letter-spacing="2">04 / PROJECTS</text><text x="0" y="64" font-size="34" fill="#E8ECF1" font-weight="700" >Projects</text><rect x="0" y="76" width="1200" height="1" fill="#2A323D"/><rect class="u" x="0" y="75" width="90" height="3" rx="1.5" fill="#5EEAD4"/></svg>
