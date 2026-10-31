@@ -99,16 +99,18 @@ English — Professional Working Proficiency
 <a name="contact"></a>
 <img src="assets/h-contact.svg" width="100%" alt="Contact"/>
 
-<div align="center">
+<img src="assets/contact-cta.svg" width="100%" alt="Let's build something together"/>
 
-**Have an idea for a mobile application or want to collaborate?**
-
-<a href="mailto:hanymagdyhagar@gmail.com"><img src="assets/c-email.svg" width="270" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/hany-hagar-685972318"><img src="assets/c-linkedin.svg" width="270" alt="LinkedIn"/></a>
-<a href="https://github.com/Hany-Hagar"><img src="assets/c-github.svg" width="270" alt="GitHub"/></a>
+<a href="mailto:hanymagdyhagar@gmail.com"><img src="assets/c-send.svg" width="240" alt="Send an email"/></a>
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Hany Magdy Hagar - Flutter Developer"/>
+<a href="mailto:hanymagdyhagar@gmail.com"><img src="assets/row-email.svg" width="100%" alt="Email: hanymagdyhagar@gmail.com"/></a><br/>
+<img src="assets/row-phone.svg" width="100%" alt="Phone: +20 109 399 1564"/><br/>
+<img src="assets/row-location.svg" width="100%" alt="Location: Cairo, Egypt"/><br/>
+<a href="https://www.linkedin.com/in/hany-hagar-685972318"><img src="assets/row-linkedin.svg" width="100%" alt="LinkedIn"/></a><br/>
+<a href="https://github.com/Hany-Hagar"><img src="assets/row-github.svg" width="100%" alt="GitHub"/></a>
 
-</div>
+<br/>
+
+<img src="assets/footer.svg" width="100%" alt="Hany Magdy Hagar - Flutter Developer"/>
