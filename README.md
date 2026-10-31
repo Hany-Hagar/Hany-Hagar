@@ -56,45 +56,20 @@ Al Reef Water and Twins Gomla Market, built end to end and published on Google P
 <a name="projects"></a>
 <img src="assets/h-projects.svg" width="100%" alt="Projects"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-<a href="https://play.google.com/store/apps/details?id=com.americangroup.dashboardAdmin"><img src="assets/p-dashboard.svg" width="100%" alt="American Soft Dashboard"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.americangroup.dashboardAdmin"><img src="assets/p-dashboard.svg" width="99%" alt="American Soft Dashboard"/></a><br/><a href="https://play.google.com/store/apps/details?id=com.americangroup.dashboardAdmin"><img src="assets/b-admin.svg" width="33%" alt="Admin"/></a><a href="https://play.google.com/store/apps/details?id=com.americangroup.dashboard"><img src="assets/b-technical.svg" width="33%" alt="Technical"/></a><a href="https://play.google.com/store/apps/details?id=com.americangroup.dashboardCenter"><img src="assets/b-center.svg" width="33%" alt="Center"/></a>
 
-<sub>
-**Open:** &nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.americangroup.dashboardAdmin">Admin</a> ·
-<a href="https://play.google.com/store/apps/details?id=com.americangroup.dashboard">Technical</a> ·
-<a href="https://play.google.com/store/apps/details?id=com.americangroup.dashboardCenter">Center</a>
-</sub>
+<br/>
 
-</td>
-<td width="50%" valign="top">
+<a href="https://play.google.com/store/apps/details?id=com.code_plus.al_reef_water"><img src="assets/p-reef.svg" width="49%" alt="Al Reef Water"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.orderappcomany.orderapp"><img src="assets/p-twins.svg" width="49%" alt="Twins Gomla Market"/></a>
 
-<a href="https://github.com/Hany-Hagar/surrah-app"><img src="assets/p-surrah.svg" width="100%" alt="Surrah - Offline Finance App"/></a>
+<br/>
 
-<sub>Theme and currency preferences · Biometric app lock · Screenshot protection</sub>
+<a href="https://github.com/Hany-Hagar/surrah-app"><img src="assets/p-surrah.svg" width="99%" alt="Surrah - Offline Finance App"/></a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://play.google.com/store/apps/details?id=com.code_plus.al_reef_water"><img src="assets/p-reef.svg" width="100%" alt="Al Reef Water"/></a>
-
-<sub>Customer and admin workflows · Push notifications</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://play.google.com/store/apps/details?id=com.orderappcomany.orderapp"><img src="assets/p-twins.svg" width="100%" alt="Twins Gomla Market"/></a>
-
-<sub>Product image uploads · Firestore batch writes · Parallel processing</sub>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
