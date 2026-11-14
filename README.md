@@ -56,18 +56,23 @@ Dashboards with separate Admin, Technical, and Center flavors.
 <br/>
 
 <!-- American Soft Dashboard -->
+<!-- American Dashboard -->
 <table width="100%" border="1" cellpadding="12" cellspacing="0">
 <tr>
 <td width="45%" align="center" valign="middle">
-  <img src="assets/p-dashboard.svg" width="100%" height="220" alt="American Soft Dashboard"/>
+  <img src="assets/banner-american-dashboard.png"
+       width="100%"
+       alt="American Dashboard"/>
 </td>
 <td width="55%" valign="middle">
   <sub>COMPANY · AMERICAN SOFT</sub>
-  <h2>American Soft Dashboard</h2>
-  Admin, Technical and Center flavors for appliance maintenance operations, including orders, employees, centers, products and financial reports.
+  <h2>American Dashboard</h2>
+
+  Admin dashboard application for managing business operations, maintenance centers, employees, customer service, and incoming orders. Includes center management, user administration, order tracking, and financial operations.
 
   <br/><br/>
-  <code>Flutter</code> <code>Cubit</code> <code>Dio</code> <code>GetIt</code> <code>FCM</code>
+  <code>Flutter</code> <code>Cubit</code> <code>Dio</code>
+  <code>GetIt</code> <code>FCM</code> <code>Firebase</code>
 
   <br/><br/>
   <a href="https://play.google.com/store/apps/details?id=com.americangroup.dashboardAdmin">Admin ↗</a>
@@ -78,8 +83,6 @@ Dashboards with separate Admin, Technical, and Center flavors.
 </td>
 </tr>
 </table>
-
-<br/>
 
 <!-- Surrah -->
 <table width="100%" border="1" cellpadding="12" cellspacing="0">
