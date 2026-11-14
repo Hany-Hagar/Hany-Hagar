@@ -1,5 +1,4 @@
-عاوزك تعدل الكود ده <div align="center">
-
+<div align="center">
 <img src="assets/hero.svg" width="100%" alt="Hany Magdy Hagar - Flutter Developer"/>
 
 <br/>
